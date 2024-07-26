@@ -1,16 +1,14 @@
 # Step by Step Guide: How to Create a User Account
 
-## Purpose
-The purpose of this document is to provide a standardized procedure for creating a user account in the Takumi Precision Engineering IT system. This ensures that all user accounts are created consistently and securely, in accordance with the company's IT policies and security protocols.
+## 1st Step: Login to the User Management System and Initiate New User Creation
 
-## Scope
-This procedure applies to all IT staff responsible for creating user accounts within the Takumi Precision Engineering IT infrastructure.
-
-## Prerequisites
-- Administrator access to the user management system.
-- Necessary information about the new user (e.g., full name, job title, department, contact information).
-
-## Procedure
+``` 
+    -Access the Remote Desktop Connection
+    -Enter the core machine with the following credentials:
+        Computer: core
+        Password: 6084Logic2
+    -Open the application: Active Directory Users and Computers 
+```
 
 1. **Login to the User Management System**
     - Access the user management portal via the provided URL.
@@ -64,3 +62,4 @@ This procedure applies to all IT staff responsible for creating user accounts wi
 
 ## Contact Information
 For any issues or questions regarding this procedure, contact the IT support team at itsupport@takumiprecision.com or call extension 1234.
+
