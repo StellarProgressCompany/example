@@ -1,4 +1,4 @@
-# How to Create a User Account
+# Step by Step Guide: How to Create a User Account
 
 ## Purpose
 The purpose of this document is to provide a standardized procedure for creating a user account in the Takumi Precision Engineering IT system. This ensures that all user accounts are created consistently and securely, in accordance with the company's IT policies and security protocols.
