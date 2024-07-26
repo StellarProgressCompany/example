@@ -10,6 +10,15 @@
     -Open the application: Active Directory Users and Computers 
 ```
 
+## 2nd Step: Initiate New User Creation
+
+```
+    -Note the different Units. Identify which Unit the new user work at.
+    -Next you can either create a new user or copy an already existent user (recommended) 
+    
+```
+
+
 1. **Login to the User Management System**
     - Access the user management portal via the provided URL.
     - Enter your administrator username and password.
