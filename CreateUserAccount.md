@@ -39,6 +39,8 @@
 ```
 
 
+---
+
 
 # Step by Step Guide: Assing and Modify User Rights
 
@@ -52,7 +54,7 @@
     -Open the application: Active Directory Users and Computers.
 ```
 
-## 2nd Step: Initiate New User Creation
+## 2nd Step: Grant/Delete User Rights
 
 ```
     -Note the different Units. Identify which Unit the new user work at.
