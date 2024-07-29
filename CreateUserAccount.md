@@ -18,7 +18,7 @@
 ```
 
 
-
+  
 # Step by Step Guide: How to Eliminate a User Account
 
 ## 1st Step: Login to the User Management System
