@@ -10,7 +10,21 @@
 -Open the application: Active Directory Users and Computers.
 ```
 
-## 2nd Step: Initiate New User Creation
+## 2nd Step: Create Windows User
+
+```
+-Note the different Units. Identify which Unit the new user work at.
+-Next you can either create a new user or copy an already existent user (recommended).
+```
+
+## 3rd Step: Create M1 User
+
+```
+-Note the different Units. Identify which Unit the new user work at.
+-Next you can either create a new user or copy an already existent user (recommended).
+```
+
+## 4th Step: Create Mado User
 
 ```
 -Note the different Units. Identify which Unit the new user work at.
