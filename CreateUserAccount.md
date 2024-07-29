@@ -35,5 +35,5 @@
 
 ```
     -Note the different Units. Identify which Unit the new user work at.
-    -Next you can either create a new user or copy an already existent user (recommended).
+    -Next right click and delete the user desired.
 ```
