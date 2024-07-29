@@ -17,3 +17,6 @@
     -Next you can either create a new user or copy an already existent user (recommended) 
     
 ```
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
