@@ -6,7 +6,7 @@
     -Access the Remote Desktop Connection
     -Enter the core machine with the following credentials:
         Computer: core
-        Password --> ask the boss Tony
+        Password --> ask the boss [Tony]
     -Open the application: Active Directory Users and Computers 
 ```
 
