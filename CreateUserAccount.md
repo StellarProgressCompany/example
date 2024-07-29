@@ -31,6 +31,27 @@
     -Open the application: Active Directory Users and Computers.
 ```
 
+## 2nd Step: Delete the Desired User
+
+```
+    -Note the different Units. Identify which Unit the new user work at.
+    -Next right click and delete the user desired.
+```
+
+
+
+# Step by Step Guide: Assing and Modify User Rights
+
+## 1st Step: Login to the User Management System
+
+``` 
+    -Access the Remote Desktop Connection.
+    -Enter the core machine with the following credentials:
+        Computer: core
+        Password --> ask the boss [Tony]
+    -Open the application: Active Directory Users and Computers.
+```
+
 ## 2nd Step: Initiate New User Creation
 
 ```
