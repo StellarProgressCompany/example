@@ -1,6 +1,6 @@
 # Step by Step Guide: How to Create a User Account
 
-## 1st Step: Login to the User Management System
+## 1st Step: Login to the User Management System 
 
 ``` 
 -Access the Remote Desktop Connection.
