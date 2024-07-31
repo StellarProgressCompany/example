@@ -20,16 +20,18 @@
 ## 3rd Step: Create M1 User
 
 ```
--Note the different Units. Identify which Unit the new user work at.
--Next you can either create a new user or copy an already existent user (recommended).
+-Enter M1 with an account with permissions (ask Tony).
+-Create a M1 account (follow the steps it's very easy)
 ```
 
 ## 4th Step: Create Mado User
 
 ```
--Note the different Units. Identify which Unit the new user work at.
--Next you can either create a new user or copy an already existent user (recommended).
+-Visit the webpage: "www.takumimado.com" and login with whatever credentials desired (ask Tony).
+-Then go to 'users' and login with the password (ask Tony).
+-Just click on the +User button, and give the desired permissions.
 ```
+![image](https://github.com/user-attachments/assets/0fa80826-3368-484a-a8b4-8e848dce60e1)
 
 
 ---
