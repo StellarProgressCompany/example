@@ -93,3 +93,18 @@
 -Note the different Units. Identify which Unit the new user work at.
 -Next right click and delete the user desired.
 ```
+
+## 3rd Step: Grant/Delete M1 User Rights
+
+```
+-Enter M1 with an account with permissions (ask Tony).
+-Create a M1 account (follow the steps it's very easy)
+```
+
+## 4th Step: Grant/Delete Mado User Rights
+
+```
+-Visit the webpage: "www.takumimado.com" and login with whatever credentials desired (ask Tony).
+-Then go to 'users' and login with the password (ask Tony).
+-Just click on the user desired, and give the desired permissions.
+```
