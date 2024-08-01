@@ -56,7 +56,22 @@
 -Next right click and delete the user desired.
 ```
 
-  
+## 3rd Step: Delete M1 User
+
+```
+-Enter M1 with an account with permissions (ask Tony).
+-Delete the desired M1 account (follow the steps it's very easy)
+```
+
+## 4th Step: Delete Mado User
+
+```
+-Visit the webpage: "www.takumimado.com" and login with whatever credentials desired (ask Tony).
+-Then go to 'users' and login with the password (ask Tony).
+-Just click edit User button disable all permissions.
+```
+  ![image](https://github.com/user-attachments/assets/ec1295c9-8b2e-4d7b-8583-b180eea2f0b0)
+
 ---
 
 
